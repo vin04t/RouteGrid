@@ -33,7 +33,7 @@ RouteGrid is a software-only logistics simulator built with Python and Streamlit
 Python 3.10 or later is recommended.
 
 ```bash
-git clone https://github.com/<YOUR-USERNAME>/RouteGrid.git
+git clone https://github.com/vin04t/RouteGrid.git
 cd RouteGrid
 
 python -m venv .venv
